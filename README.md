@@ -1,3 +1,5 @@
+[![CI](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml)
+
 # Miniproject for Calender in Two Languages Kannada and English
 
 
