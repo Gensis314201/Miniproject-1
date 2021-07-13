@@ -7,7 +7,9 @@
 [![Contribution Check - Git Inspector](https://github.com/SAIRAJL/Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/gitinspector.yml)
 
 [![cppcheck-action](https://github.com/SAIRAJL/Miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/cppcheck.yml)
+
 https://www.code-inspector.com/project/24905/score/svg
+https://www.code-inspector.com/project/24905/status/svg
 
 # Miniproject for Calender in Two Languages Kannada and English
 
