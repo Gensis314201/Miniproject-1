@@ -1,8 +1,8 @@
-###SDLC MINI PROJECT
+## SDLC MINI PROJECT
 
-## Miniproject for Calender in Two Languages Kannada and English
+# Miniproject for Calender in Two Languages Kannada and English
 
-#BADGES
+# BADGES
 
 [![CI](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9be013cdccbf44d9b30a80083b2b299a)](https://www.codacy.com/gh/SAIRAJL/Miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SAIRAJL/Miniproject&amp;utm_campaign=Badge_Grade)
