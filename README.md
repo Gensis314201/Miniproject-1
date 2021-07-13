@@ -30,6 +30,11 @@ https://www.code-inspector.com/project/24905/status/svg
 |3_implementation|	All code and documentation|
 |4_testplan|Documents with test plans and procedures|
 
+# RESOURCES
+1.[LEAP YEAR]( https://www.timeanddate.com/date/leapyear.html)
+2.[git inspector](https://github.com/ejwa/gitinspector)
+3.[Github](https://github.com/)
+4.[Google](www.google.com)
 # Contributors List and Summary
 
 | SF ID| NAME| ISSUES RAISED|ISSUES RESOLVED|
@@ -40,4 +45,4 @@ https://www.code-inspector.com/project/24905/status/svg
 
 
 
-The formula to calculate leap year was not created by me, instead I used this website: https://www.timeanddate.com/date/leapyear.html
+
