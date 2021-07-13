@@ -1,4 +1,4 @@
-## SDLC MINI PROJECT
+# SDLC MINI PROJECT
 
 # Miniproject for Calender in Two Languages Kannada and English
 
@@ -26,6 +26,11 @@ https://www.code-inspector.com/project/24905/status/svg
 |3_implementation|	All code and documentation|
 |4_testplan|Documents with test plans and procedures|
 
+#Contributors List and Summary
+
+| SF ID| NAME| ISSUES RAISED|ISSUES RESOLVED|
+|---|---|---|---|
+|S303457|SAIRAJ|2|NONE
 
 
 
