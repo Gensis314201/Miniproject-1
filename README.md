@@ -37,9 +37,9 @@ https://www.code-inspector.com/project/24905/status/svg
 4.[Google](www.google.com)
 # Contributors List and Summary
 
-| SF ID| NAME| ISSUES RAISED|ISSUES RESOLVED|
-|---|---|---|---|
-|S303457|SAIRAJ|2|NONE
+| SF ID| NAME| ISSUES RAISED|ISSUES RESOLVED|TEST CASES|PASSED TEST CASES|
+|---|---|---|---|---|---|
+|S303457|SAIRAJ|2|NONE|5|3|
 
 
 
