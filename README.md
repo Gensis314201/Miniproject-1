@@ -4,6 +4,8 @@
    <img src="https://code-inspector.com/public/badge/user/github/SAIRAJL?style=light" alt="code inspector badge" />
 </a>
 
+[![Contribution Check - Git Inspector](https://github.com/SAIRAJL/Miniproject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/gitinspector.yml)
+
 # Miniproject for Calender in Two Languages Kannada and English
 
 
