@@ -15,6 +15,11 @@ https://www.code-inspector.com/project/24905/status/svg
 
 # Miniproject for Calender in Two Languages Kannada and English
 
+# Folder Structure
+|  Folder| Description|
+|---|---|
+|1_Requirements|Documents detailing requirements and research|
+
 
 This project prints out the calendar of a user desired year, it will use the formual to calcualte the leap year and to find out which day of the week does the day 0 start on a given year.
 
