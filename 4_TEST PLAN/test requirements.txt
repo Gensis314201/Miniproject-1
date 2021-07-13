@@ -1,0 +1,8 @@
+#SYSTEM DESIGN
+In this phase, the system design is prepared which specifies hardware and system requirements, such as data layers, programming languages, network infrastructure, user interface etc. It helps define the overall system architecture, which is further divided into
+
+a) High-level design phase
+This is the first stage of system design and architecture. It includes a list and functionality of modules, correlation between these modules, architecture diagrams, and database tables. This phase ends with the creation of a  High-level Design document.
+
+b) Low-level design phase
+This involves designing actual software components. The High-level Design created in the previous phase is disintegrated into separate modules. The Low-level Design document describes each module (pseudo-code), which enables the programmer to code directly from the document. It also contains interface details, error-message listings, dependency issues, inputs and outputs for each module.
