@@ -2,6 +2,10 @@
 
 # Miniproject for Calender in Two Languages Kannada and English
 
+# DESCRIPTION
+
+This project prints out the calendar of a user desired year, it will use the formual to calcualte the leap year and to find out which day of the week does the day 0 start on a given year.
+
 # BADGES
 
 [![CI](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/main.yml)
@@ -26,7 +30,7 @@ https://www.code-inspector.com/project/24905/status/svg
 |3_implementation|	All code and documentation|
 |4_testplan|Documents with test plans and procedures|
 
-#Contributors List and Summary
+# Contributors List and Summary
 
 | SF ID| NAME| ISSUES RAISED|ISSUES RESOLVED|
 |---|---|---|---|
@@ -34,6 +38,6 @@ https://www.code-inspector.com/project/24905/status/svg
 
 
 
-This project prints out the calendar of a user desired year, it will use the formual to calcualte the leap year and to find out which day of the week does the day 0 start on a given year.
+
 
 The formula to calculate leap year was not created by me, instead I used this website: https://www.timeanddate.com/date/leapyear.html
