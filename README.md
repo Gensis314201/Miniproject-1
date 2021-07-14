@@ -18,9 +18,9 @@ This project prints out the calendar of a user desired year, it will use the for
 
 [![cppcheck-action](https://github.com/SAIRAJL/Miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SAIRAJL/Miniproject/actions/workflows/cppcheck.yml)
 
- https://www.code-inspector.com/project/24905/score/svg
+#  https://www.code-inspector.com/project/24905/score/svg
 
-https://www.code-inspector.com/project/24905/status/svg
+ # https://www.code-inspector.com/project/24905/status/svg
 
 # Folder Structure
 |  Folder| Description|
