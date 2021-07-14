@@ -1,3 +1,7 @@
+
+
+
+
 /**
  * @file Calender.c
  * @author Sairaj (sairajlp99@gmail.com)
@@ -25,14 +29,7 @@ void test_check_leapyear(void)
   
     
 }
-void test_check_leapyear(void)
-{
-    TEST_ASSERT_EQUAL(1,calender(5));
-    TEST_ASSERT_EQUAL(1,calender(2));
 
-  
-    
-}
 
 
 
@@ -40,9 +37,8 @@ int main(void)
 {
 
   UNITY_BEGIN();
-  /*RUN_TEST(test_check_horiziontal);
-  RUN_TEST(test_check_vertical);
-  RUN_TEST(test_check_diagonal);*/
+  RUN_TEST(test_check_leapyear);
+ 
   return UNITY_END();
 
 }
